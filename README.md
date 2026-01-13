@@ -1,4 +1,4 @@
-# 🐻 CS61B: Data Structures & Algorithms (Spring 2021)
+# 🐻 CS61B: Data Structures & Algorithms (Spring 2024)
 > **University**: UC Berkeley | **Learner**: [xin]
 > **Status**: 寒假自主进阶中 ❄️
 ![Java](https://img.shields.io/badge/Language-Java-orange) ![IDE](https://img.shields.io/badge/IDE-IntelliJ_IDEA-blue)
